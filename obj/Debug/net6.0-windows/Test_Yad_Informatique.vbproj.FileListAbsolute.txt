@@ -1,0 +1,17 @@
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\Test_Yad_Informatique.vbproj.AssemblyReference.cache
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\Test_Yad_Informatique.Form1.resources
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\Test_Yad_Informatique.vbproj.GenerateResource.cache
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\Test_Yad_Informatique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\Test_Yad_Informatique.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\Test_Yad_Informatique.AssemblyInfo.vb
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\Test_Yad_Informatique.vbproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Test_Yad_Informatique\bin\Debug\net6.0-windows\Test_Yad_Informatique.exe
+C:\Users\Andre\Desktop\Test_Yad_Informatique\bin\Debug\net6.0-windows\Test_Yad_Informatique.deps.json
+C:\Users\Andre\Desktop\Test_Yad_Informatique\bin\Debug\net6.0-windows\Test_Yad_Informatique.runtimeconfig.json
+C:\Users\Andre\Desktop\Test_Yad_Informatique\bin\Debug\net6.0-windows\Test_Yad_Informatique.dll
+C:\Users\Andre\Desktop\Test_Yad_Informatique\bin\Debug\net6.0-windows\Test_Yad_Informatique.pdb
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\Test_Yad_Informatique.dll
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\refint\Test_Yad_Informatique.dll
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\Test_Yad_Informatique.pdb
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\Test_Yad_Informatique.genruntimeconfig.cache
+C:\Users\Andre\Desktop\Test_Yad_Informatique\obj\Debug\net6.0-windows\ref\Test_Yad_Informatique.dll
